@@ -12,15 +12,5 @@ Hello, I am a **KIAA Fellow** at [**Kavli Institute for Astronomy and Astrophysi
 
 I am interested in observational astronomy with quasars along the cosmic time. Specifically, I have been working on their demography and the resultant contribution to the cosmic reionization and ionizing background in the early universe. I am also interested in the formation and growth of the supermassive black holes centered at quasars with their host galaxies along the cosmic time. Please see the [Research page](https://yongjungkim.github.io/research) for detail.
 
-**Contact:**
-
-<address>
-  Kavli Institute for Astronomy and Astrophysics<br /> Peking University <br /> Beijing 100871 <br /> P. R. China
-</address>
-
-
-E-mail: yongjungkim at pku dot edu dot cn <br /> (or yjkim.ast at gmail dot com)
-
-Phone: +86 136-1103-3012
 
 
