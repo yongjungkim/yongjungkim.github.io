@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Quick Links:
+
+Link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
+
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
