@@ -13,22 +13,24 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 
 ## Positions
 
-* **2019/11 - present**
+* **2019 November - present**
   * KIAA Fellow at Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU), Beijing, China
   * Mentor: Prof. Linhua Jiang
 
-* **2019/09 - 2019/10**
+* **2019 September - 2019 October**
   * Postdoctoral researcher at Research Institute for Basic Sciences, Seoul National University, Seoul, Korea
   * Mentor: Prof. Myungshin Im
 
 ## Education
 
-* 2013/03-2019/08: Ph.D. in Astronomy at Seoul National University, Seoul, Korea
-  * The integrated M.S/Ph.D. course
-  * Thesis title: Survey of Faint Quasars at High Redshifts: Contributions to the Cosmic Reionization and Growth of the First Supermassive Black Holes (supervisor: Prof. Myungshin Im)
+* **2013 March - 2019 August**
+  * Ph.D. in Astronomy at Seoul National University, Seoul, Korea
+    * The integrated M.S/Ph.D. course
+    * Thesis title: Survey of Faint Quasars at High Redshifts: Contributions to the Cosmic Reionization and Growth of the First Supermassive Black Holes (supervisor: Prof. Myungshin Im)
   
-* 2009/03-2013/02: B.S. in Astronomy at Seoul National University, Seoul, Korea
-  * Minor: Physics
+* **2009 March - 2013 February**
+  * B.S. in Astronomy at Seoul National University, Seoul, Korea
+    * Minor: Physics
 
 ## Research Grants & Scholarships
 
