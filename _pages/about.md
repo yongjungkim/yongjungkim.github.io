@@ -8,7 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a **KIAA Fellow** at [**Kavli Institute for Astronomy and Astrophysics (KIAA)**](http://kiaa.pku.edu.cn/)
+Hello, I am a **KIAA Fellow** at [**Kavli Institute for Astronomy and Astrophysics (KIAA)**](http://kiaa.pku.edu.cn/) in Beijing, China. I am currently working wit [Prof. Linhua Jiang](http://kavli.pku.edu.cn/~jiang/) at Peking University in Beijing, China. Before coming to KIAA, I did my Ph.D. in Astronomy at Seoul National University in Seoul, Korea, advised by [Prof. Myungshin Im](http://astro.snu.ac.kr/~mim/).
+
+I am interested in observational astronomy with quasars along the cosmic time. Specifically, I have been working on their demography and the resultant contribution to the cosmic reionization and ionizing background in the early universe. I am also interested in the formation and growth of the supermassive black holes centered at quasars with their host galaxies along the cosmic time. Please see the Research page for detail.
+
+**Contact: **
+
+Kavli Institute for Astronomy and Astrophysics,
+
+Peking University, Beijing 100871, P. R. China
+
+
+E-mail: yongjungkim at pku dot edu dot cn 
+
+(or yjkim.ast at gmail dot com)
+
+Phone: +86 136-1103-3012
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
