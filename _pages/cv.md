@@ -11,8 +11,7 @@ redirect_from:
 
 Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 
-# Positions
-# ======
+## Positions
 * 2019/11-present KIAA Fellow
   * At Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU), Beijing, China
   * Mentor: Prof. Linhua Jiang
