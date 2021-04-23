@@ -83,11 +83,11 @@ author:
   name             : "Yongjung Kim"
   avatar           : "profile.png"
   bio              : "KIAA Fellow at Peking University"
+  email            : "yongjungkim@pku.edu.cn"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.kr/citations?user=mREqevIAAAAJ&hl=ko"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
