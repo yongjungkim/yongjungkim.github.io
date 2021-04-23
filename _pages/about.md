@@ -15,8 +15,9 @@ I am interested in observational astronomy with quasars along the cosmic time. S
 **Contact:**
 
 <address>
-  Kavli Institute for Astronomy and Astrophysics<br /> Peking University <br /> Beijing 100871 <br /> P. R. China <br />
+  Kavli Institute for Astronomy and Astrophysics<br /> Peking University <br /> Beijing 100871 <br /> P. R. China
 </address>
+
 
 E-mail: yongjungkim at pku dot edu dot cn <br /> (or yjkim.ast at gmail dot com)
 
