@@ -12,7 +12,7 @@ Hello, I am a **KIAA Fellow** at [**Kavli Institute for Astronomy and Astrophysi
 
 I am interested in observational astronomy with quasars along the cosmic time. Specifically, I have been working on their demography and the resultant contribution to the cosmic reionization and ionizing background in the early universe. I am also interested in the formation and growth of the supermassive black holes centered at quasars with their host galaxies along the cosmic time. Please see the Research page for detail.
 
-**Contact: **
+**Contact:**
 
 Kavli Institute for Astronomy and Astrophysics,
 
