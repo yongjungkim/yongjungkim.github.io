@@ -34,15 +34,15 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 
 ## Research Grants & Scholarships
 
-2020 The 2020 China Postdoctoral Science Special Grant (USD 26,000)
+**2020** The 2020 China Postdoctoral Science Special Grant (USD 26,000)
 
-2020 The 2020 China Postdoctoral Science General Grant (USD 12,000)
+**2020** The 2020 China Postdoctoral Science General Grant (USD 12,000)
 
-2019  Top 100 Fellowship (USD 7,000)
+**2019**  Top 100 Fellowship (USD 7,000)
 
-2013-2019 Scholarship for Creative Academic Performance (BK21) (USD 58,000)
+**2013-2019** Scholarship for Creative Academic Performance (BK21) (USD 58,000)
 
-2012 Lotte Scholarship (USD 5,000)
+**2012** Lotte Scholarship (USD 5,000)
 
-2009-2010 Presidentail Science Scholarship (USD 10,000)
+**2009-2010** Presidentail Science Scholarship (USD 10,000)
 
