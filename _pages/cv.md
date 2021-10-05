@@ -12,7 +12,11 @@ redirect_from:
 Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 
 ## Positions
-### **KIAA Fellow** (2019 November - present)
+### **Sejong Science Fellow** (2021 September - present)
+  * At **Kyungpook National University (KNU)**, Daegu, Korea
+  * Mentor: Prof. Minjin Kim
+
+### **KIAA Fellow** (2019 November - 2021 September)
   * At **Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU)**, Beijing, China
   * Mentor: Prof. Linhua Jiang
 
@@ -30,6 +34,7 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
   * Minor: Physics
 
 ## Research Grants & Scholarships
+* **The Sejong Science Fellowship**, USD 100,000/yr (2021)
 * **The 2020 China Postdoctoral Science Special Grant**, *USD 26,000* (2020)
 * **The 2020 China Postdoctoral Science General Grant**, *USD 12,000* (2020)
 * **Top 100 Fellowship**, *USD 7,000* (2019)
