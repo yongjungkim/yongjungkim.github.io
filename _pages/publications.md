@@ -21,7 +21,7 @@ Quick Links to
 
 ### First Authorship
 
- * **Kim, Y.**, Im, M., et al. 2021, submitted to AJ *"The Infrared Medium-deep Survey. IX. Discovery of Two New z ~ 6 Quasars and Spced Density down to M<sub>1450</sub> ~ -23.5 mag"*
+ * **Kim, Y.**, Im, M., et al. 2021, accepted for publication in AJ *"The Infrared Medium-deep Survey. IX. Discovery of Two New z ~ 6 Quasars and Spced Density down to M<sub>1450</sub> ~ -23.5 mag"*
  * **Kim, Y.** & Im, M. 2021, ApJL, 910, 11 *"Pure Density Evolution of Ultraviolet Quasar Luminosity Function at 2 ≲ z ≲ 6"*
  * **Kim, Y.**, Im, M., et al. 2020, ApJ, 904, 111 *"The Infrared Medium-deep Survey. VIII. Quasar Luminosity Function at z ~ 5"*
  * **Kim, Y.** & Im, M. 2019, ApJ, 879, 117 *"High Star Formation Rates of Low Eddington Ratio Quasars at z ≳ 6"*
