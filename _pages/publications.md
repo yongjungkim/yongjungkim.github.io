@@ -32,7 +32,7 @@ Quick Links to
 
 ### Co-authorship
 
- * Shin, S., Im, M., **Kim, Y.** & Jiang, L., 2022, JKAS, submitted *"Newly Discovered z ~ 5 Quasars via Deep Learning and Bayesian Information Criterion"*
+ * Shin, S., Im, M., **Kim, Y.** & Jiang, L., 2022, JKAS, accepted *"Newly Discovered z ~ 5 Quasars via Deep Learning and Bayesian Information Criterion"*
  * Lee, B., Wang, J., ..., **Kim, Y.**, et al. 2022, ApJS, accepted *"ALMA/ACA CO Survey of the IC 1459 and NGC 4636 Groups: Environmental Effects on the Molecular Gas of Group Galaxies"*
  * Taak, Y-. C., Im, M., **Kim, Y.**, et al. 2022, A&A, accepted *"High-z Universe proved via Lensing by QSOs (HULQ) II. Deep GMOS Spectroscopy of a QSO Lens Candidate"*
  * Shin, S., Im, M. & **Kim, Y.** 2021, ApJ, submitted *"The Quasar Luminosity Function at z ~ 5 via Deep Learning and Bayesian Information Criterion"*
