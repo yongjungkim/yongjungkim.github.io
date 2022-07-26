@@ -34,7 +34,7 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
   * Minor: Physics
 
 ## Research Grants & Scholarships
-* **The Sejong Science Fellowship**, USD 550,000 (2021-2026)
+* **The Sejong Science Fellowship**, *USD 480,000* (2021-2026)
 * **The 2020 China Postdoctoral Science Special Grant**, *USD 26,000* (2020)
 * **The 2020 China Postdoctoral Science General Grant**, *USD 12,000* (2020)
 * **Top 100 Fellowship**, *USD 7,000* (2019)
