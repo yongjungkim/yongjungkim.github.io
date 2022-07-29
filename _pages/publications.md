@@ -35,7 +35,7 @@ Quick Links to
  * Shin, S., Im, M., **Kim, Y.** & Jiang, L., 2022, JKAS, accepted *"Newly Discovered z ~ 5 Quasars via Deep Learning and Bayesian Information Criterion"*
  * Lee, B., Wang, J., ..., **Kim, Y.**, et al. 2022, ApJS, accepted *"ALMA/ACA CO Survey of the IC 1459 and NGC 4636 Groups: Environmental Effects on the Molecular Gas of Group Galaxies"*
  * Taak, Y-. C., Im, M., **Kim, Y.**, et al. 2022, A&A, accepted *"High-z Universe proved via Lensing by QSOs (HULQ) II. Deep GMOS Spectroscopy of a QSO Lens Candidate"*
- * Shin, S., Im, M. & **Kim, Y.** 2021, ApJ, submitted *"The Quasar Luminosity Function at z ~ 5 via Deep Learning and Bayesian Information Criterion"*
+ * Shin, S., Im, M. & **Kim, Y.** 2021, ApJ, accepted *"The Quasar Luminosity Function at z ~ 5 via Deep Learning and Bayesian Information Criterion"*
  * Shin, S., Im, M., **Kim, Y.**, et al. 2020, ApJ, 893, 45 *"The Infrared Medium-deep Survey. VII. Faint Quasars at z ~ 5 in the ELAIS-N1 Field"*
  * Lee, S.-K., Im, M., ..., **Kim, Y.** 2019, MNRAS, 490, 135 *"More connected, more active: galaxy clusters and groups at z ~ 1 and the connection between their quiescent galaxy fractions and large-scale environments"*
  * Im, M., Choi, C., ... **Kim, Y.**, et al. 2019, JKAS, 52, 11 *"Intensive Monitoring Survey of Nearby Galaxies (IMSNG)"*
