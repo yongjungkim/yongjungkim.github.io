@@ -26,9 +26,9 @@ During my Ph.D., I participated in the Infrared Medium-deep Survey(IMS; PI: Prof
 
 Using the IMS quasars, we derived the quasar luminosity function at z\~5 and z\~6, as shown below. Their number densities are lower than the previous expectation from extrapolation of bright ones. Consequently, we concluded that quasars alone could not provide the UV photons required to keep the ionized state of intergalactic medium after the epoch of reionization.
 
-<p align="center"><img src="https://yongjungkim.github.io/images/z5qlf.png" height="400px"></p><br/>
+<p align="center"><img src="https://yongjungkim.github.io/images/z5qlf.png" width="400px"></p>
 
-<p align="center"><img src="https://yongjungkim.github.io/images/z6qlf.png" height="400px"></p><br/>
+<p align="center"><img src="https://yongjungkim.github.io/images/z6qlf.png" width="400px"></p><br/>
 
 ### Growth of Supermassive Black Holes with Their Host Galaxies
 
