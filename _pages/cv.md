@@ -12,8 +12,13 @@ redirect_from:
 Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 
 ## Positions
+### **Senior Researcher** (2023 July - present)
+  * At **Korea Astronomy & Space Science Institute (KASI)**, Daejeon, Korea
+  * PI: Dr. Woong-Seob Jeong
+
 ### **Sejong Science Fellow** (2021 September - present)
   * At **Kyungpook National University (KNU)**, Daegu, Korea
+  * At **Korea Astronomy & Space Science Institute (KASI)**, Daejeon, Korea
   * Mentor: Prof. Minjin Kim
 
 ### **KIAA Fellow** (2019 November - 2021 September)
