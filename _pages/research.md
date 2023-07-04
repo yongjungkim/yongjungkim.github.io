@@ -34,7 +34,7 @@ Using the IMS quasars, we derived the quasar luminosity function at z\~5 and z\~
 
  TBU
  
- * Related publications: Kim et al. 2018.
+ * Related publications: Kim et al. 2018, Kim & Im 2019
 
 ## Demography of Quasars along the Cosmic Time
 
