@@ -14,7 +14,7 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 ## Positions
 ### **Senior Researcher** (2023 July - present)
   * At **Korea Astronomy & Space Science Institute (KASI)**, Daejeon, Korea
-  * PI: Dr. Woong-Seob Jeong
+  * In the group of Dr. Woong-Seob Jeong
 
 ### **Sejong Science Fellow** (2021 September - present)
   * At **Kyungpook National University (KNU)**, Daegu, Korea (2021.09-2023.06)
