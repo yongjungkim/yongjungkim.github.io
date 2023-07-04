@@ -19,7 +19,7 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 ### **Sejong Science Fellow** (2021 September - present)
   * At **Kyungpook National University (KNU)**, Daegu, Korea (2021.09-2023.06)
   * Mentor: Prof. Minjin Kim
-  * Continued at KASI (2023.07-)
+  * Continued at KASI (2023.07-)
 
 ### **KIAA Fellow** (2019 November - 2021 September)
   * At **Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU)**, Beijing, China
