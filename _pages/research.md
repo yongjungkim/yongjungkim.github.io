@@ -33,9 +33,15 @@ Using the IMS quasars, we derived the quasar luminosity function at z\~5 and z\~
 ### Growth of Supermassive Black Holes with Their Host Galaxies
 
  TBU
+ 
+ * Related publications: Kim et al. 2018.
 
 ## Demography of Quasars along the Cosmic Time
 
  TBU
  
  * Related publications: Kim & Im 2021.
+
+## Probing AGN Population and Cosmology with SPHEREx
+
+  TBU
