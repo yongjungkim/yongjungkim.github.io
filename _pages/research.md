@@ -12,7 +12,7 @@ redirect_from:
 ### Discovery of Faint Quasars in the Early Universe
 
 It had been unclear whether faint quasars could make a considerable contribution to the cosmic reionization and ionizing background in the early universe, due to the lack of such faint quasars.
-As a core member of the **Infrared Medium-deep Survey** (IMS; PI: Prof. Myungshin Im @SNU), I have performed a survey for finding high-redshift quasars as faint as M<sub>1450</sub> = -23 mag over the 86 deg<sup>2</sup> area. So far, 24 quasars have been newly discovered at 4.6 < z < 6.3 (Kim, Y., Im, M., et al. 2015,2019,2020,2022), as shown below.
+As a core member of the **Infrared Medium-deep Survey** (IMS; PI: Prof. Myungshin Im @SNU), I have performed a survey for finding high-redshift quasars as faint as M<sub>1450</sub> = -23 mag over the 86 deg<sup>2</sup> area. So far, 24 quasars have been newly discovered at 4.6 < z < 6.3 (Kim, Y. et al. 2015,2019,2020,2022), as shown below.
 
 
 <p align="center"><img src="https://yongjungkim.github.io/images/imsquasars.png" width="700px"></p><br/>
@@ -34,13 +34,13 @@ Using the IMS quasars, we derived the quasar luminosity function at z\~5 and z\~
 
  TBU
  
- * Related publications: Kim et al. 2018, Kim & Im 2019
+ * Related publications: Kim, Y. et al. 2018, Kim, Y. & Im, M. 2019
 
 ## Demography of Quasars along the Cosmic Time
 
  TBU
  
- * Related publications: Kim & Im 2021.
+ * Related publications: Kim, Y. & Im, M. 2021.
 
 ## Probing AGN Population and Cosmology with SPHEREx
 
