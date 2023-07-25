@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello, I am **Yongjung Kim**, a **Senior Researcher** at [**Korean Astronomy & Space Science Institute (KASI)**](https://kasi.re.kr/) in Daejeon, Republic of Korea.
-I am currently working in the group of Dr. Woong-Seob Jeong at KASI, which is conducting [**SPHEREx**](https://spherex.caltech.edu/)-related research.
+I am currently working in the Space Astronomy Group of Dr. Woong-Seob Jeong at KASI, which is conducting [**SPHEREx**](https://spherex.caltech.edu/)-related research.
 
 Before coming to KASI, I worked at Kyungpook National University (Daegu, Korea) and Kavli Institute for Astronomy and Astrophysics (Beijing, China).
 I did my Ph.D. in Astronomy at Seoul National University (Seoul, Korea).
