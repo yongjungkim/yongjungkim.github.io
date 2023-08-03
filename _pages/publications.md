@@ -14,7 +14,7 @@ author_profile: true
 {% include base_path %}
 
 Quick Links to
- [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/-qlmCI7ySnmm8VvrhaHLLw),
+ [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/-qlmCI7ySnmm8VvrhaHLLw),
  [Google Scholar](https://scholar.google.co.kr/citations?user=mREqevIAAAAJ)
 
 ## Refereed Publications
