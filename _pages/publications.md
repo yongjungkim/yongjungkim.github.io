@@ -45,7 +45,9 @@ Quick Links to
 
 ### Co-authorship
 
-
+ * Kim, D., Im, M., Kim, M., **Kim, Y.**, et al. 2023, ApJ, 954, 156  ([ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...954..156K/abstract))  
+ *"Estimators of Bolometric Luminosity and Black Hole Mass with Mid-infrared Continuum Luminosities for Dust-obscured Quasars: Prevalence of Dust-obscured SDSS Quasars"*
+  
  * Lee, B., Wang, J., ..., **Kim, Y.**, et al. 2022, ApJS, 262, 31  ([ADS](https://ui.adsabs.harvard.edu/abs/2022ApJS..262...31L/abstract))  
  *"ALMA/ACA CO Survey of the IC 1459 and NGC 4636 Groups: Environmental Effects on the Molecular Gas of Group Galaxies"*
 
