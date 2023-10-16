@@ -44,6 +44,8 @@ Quick Links to
  *"Newly Discovered Footprints of Galaxy Interaction around Seyfert 2 Galaxy NGC 7743"*
 
 ### Co-authorship
+ * Byun, W., Kim, M., Sheen, Y.-K., **Kim, Y.**, et al. 2023, ApJS, 268, 57  ([ADS](https://ui.adsabs.harvard.edu/abs/2023ApJS..268...57B/abstract))  
+ *"Photometric Selection of Unobscured QSOs at the Ecliptic Poles: KMTNet in the South Field and Pan-STARRS in the North Field"*
 
  * Kim, D., Im, M., Kim, M., **Kim, Y.**, et al. 2023, ApJ, 954, 156  ([ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...954..156K/abstract))  
  *"Estimators of Bolometric Luminosity and Black Hole Mass with Mid-infrared Continuum Luminosities for Dust-obscured Quasars: Prevalence of Dust-obscured SDSS Quasars"*
