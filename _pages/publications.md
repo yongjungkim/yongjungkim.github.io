@@ -47,6 +47,19 @@ Quick Links to
  *"Newly Discovered Footprints of Galaxy Interaction around Seyfert 2 Galaxy NGC 7743"*
 
 ### Co-authorship
+
+ * Kim, D., **Kim, Y.**, et al. 2024, A&A, accepted  ([ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240803324K/abstract))  
+ *"Eddington Ratios of Dust-obscured Quasars at  z≲1: Evidence Supporting Dust-obscured Quasars as Young Quasars"*
+ 
+ * Kim, D., Im, M., Lim, G., and **Kim, Y.** 2024, JKAS, 57, 95  ([ADS](https://ui.adsabs.harvard.edu/abs/2024JKAS...57...95K/abstract))  
+ *"Eddington Ratios of Dust-Obscured Quasars at z ~ 2"*
+ 
+ * Kann, D. A., White, N. E., ..., **Kim, Y.**, et al. 2024, A&A, 686, 56  ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..56K/abstract))  
+ *"Fires in the deep: The luminosity distribution of early-time gamma-ray-burst afterglows in light of the Gamow Explorer sensitivity requirements"*
+  
+ * Kim, D., Song, H., ..., **Kim, Y.**, et al. 2024, JKAS, 57, 45  ([ADS](https://ui.adsabs.harvard.edu/abs/2024JKAS...57...45D/abstract))  
+ *"Galaxy-Galaxy Blending in SPHEREx Survey Data"*
+
  * Byun, W., Kim, M., Sheen, Y.-K., **Kim, Y.**, et al. 2023, ApJS, 268, 57  ([ADS](https://ui.adsabs.harvard.edu/abs/2023ApJS..268...57B/abstract))  
  *"Photometric Selection of Unobscured QSOs at the Ecliptic Poles: KMTNet in the South Field and Pan-STARRS in the North Field"*
 
