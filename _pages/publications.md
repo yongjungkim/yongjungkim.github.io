@@ -19,6 +19,9 @@ Quick Links to
 
 ## Refereed Publications
 
+ * **Kim, Y.**, Kim, D., et al. 2024, ApJ, 972, 171  ([ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..171K/abstract))  
+ *"Red Type-1 Quasars after Cosmic Noon and Impact on L<sub>UV</sub>-related Quasar Statistics"*
+
  * **Kim, Y.**, Im, M., et al. 2022, AJ, 164, 114  ([ADS](https://ui.adsabs.harvard.edu/abs/2022AJ....164..114K/abstract))  
  *"The Infrared Medium-deep Survey. IX. Discovery of Two New z ~ 6 Quasars and Spced Density down to M<sub>1450</sub> ~ -23.5 mag"*
 
