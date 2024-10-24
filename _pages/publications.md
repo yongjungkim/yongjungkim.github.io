@@ -19,6 +19,14 @@ Quick Links to
 
 ## Refereed Publications
 
+### First and Second Authorship
+
+ * **Kim, Y.**, Kim, M., et al. 2024, ApJS, 972, 171  ([arXiv](https://arxiv.org/abs/2410.17187))  
+ *"Exploring Unobscured QSOs in the Southern Hemisphere with KS4"*
+
+ * Kim, D., **Kim, Y.**, et al. 2024, A&A, 690, 283  ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.283K/abstract))  
+ *"Eddington Ratios of Dust-obscured Quasars at  z≲1: Evidence Supporting Dust-obscured Quasars as Young Quasars"*
+
  * **Kim, Y.**, Kim, D., et al. 2024, ApJ, 972, 171  ([ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..171K/abstract))  
  *"Red Type-1 Quasars after Cosmic Noon and Impact on L<sub>UV</sub>-related Quasar Statistics"*
 
@@ -47,9 +55,6 @@ Quick Links to
  *"Newly Discovered Footprints of Galaxy Interaction around Seyfert 2 Galaxy NGC 7743"*
 
 ### Co-authorship
-
- * Kim, D., **Kim, Y.**, et al. 2024, A&A, accepted  ([ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240803324K/abstract))  
- *"Eddington Ratios of Dust-obscured Quasars at  z≲1: Evidence Supporting Dust-obscured Quasars as Young Quasars"*
  
  * Kim, D., Im, M., Lim, G., and **Kim, Y.** 2024, JKAS, 57, 95  ([ADS](https://ui.adsabs.harvard.edu/abs/2024JKAS...57...95K/abstract))  
  *"Eddington Ratios of Dust-Obscured Quasars at z ~ 2"*
