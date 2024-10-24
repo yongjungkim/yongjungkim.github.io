@@ -19,7 +19,7 @@ Quick Links to
 
 ## Refereed Publications
 
-### First and Second Authorship
+### First and Second Author
 
  * **Kim, Y.**, Kim, M., et al. 2024, ApJS, 972, 171  ([arXiv](https://arxiv.org/abs/2410.17187))  
  *"Exploring Unobscured QSOs in the Southern Hemisphere with KS4"*
@@ -54,7 +54,7 @@ Quick Links to
  * **Kim, Y.**, Im, M., et al. 2015, PKAS, 30, 463  ([ADS](https://ui.adsabs.harvard.edu/abs/2015PKAS...30..463K/abstract))  
  *"Newly Discovered Footprints of Galaxy Interaction around Seyfert 2 Galaxy NGC 7743"*
 
-### Co-authorship
+### Co-author
  
  * Kim, D., Im, M., Lim, G., and **Kim, Y.** 2024, JKAS, 57, 95  ([ADS](https://ui.adsabs.harvard.edu/abs/2024JKAS...57...95K/abstract))  
  *"Eddington Ratios of Dust-Obscured Quasars at z ~ 2"*
