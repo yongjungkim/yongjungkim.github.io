@@ -45,5 +45,5 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 * **The Sejong Science Fellowship**, *USD 420,000* (2021-2026)
 * **The 2020 China Postdoctoral Science Special Grant**, *USD 26,000* (2020-2021)
 * **The 2020 China Postdoctoral Science General Grant**, *USD 12,000* (2020-2021)
-* **Top 100 Fellowship**, *USD 7,000* (2019)
+* **Top 100 Fellowship**, *USD 7,000* (2019-2021)
 
