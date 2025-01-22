@@ -19,7 +19,7 @@ Quick Links to
 
 ## Refereed Publications
 
-### First and Second Author
+### First and Second Author
 
  * **Kim, Y.**, Kim, M., et al. 2024, ApJS, 972, 171  ([ADS](https://ui.adsabs.harvard.edu/abs/2024ApJS..275...46K/abstract))  
  *"Exploring Unobscured QSOs in the Southern Hemisphere with KS4"*
