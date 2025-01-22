@@ -21,7 +21,7 @@ Quick Links to
 
 ### First and Second Author
 
- * **Kim, Y.**, Kim, M., et al. 2024, ApJS, 972, 171  ([arXiv](https://arxiv.org/abs/2410.17187))  
+ * **Kim, Y.**, Kim, M., et al. 2024, ApJS, 972, 171  ([ADS](https://ui.adsabs.harvard.edu/abs/2024ApJS..275...46K/abstract))  
  *"Exploring Unobscured QSOs in the Southern Hemisphere with KS4"*
 
  * Kim, D., **Kim, Y.**, et al. 2024, A&A, 690, 283  ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.283K/abstract))  
@@ -55,7 +55,10 @@ Quick Links to
  *"Newly Discovered Footprints of Galaxy Interaction around Seyfert 2 Galaxy NGC 7743"*
 
 ### Co-author
- 
+
+ * Kim, T., Kim, M., Ho, L. C., ..., **Kim, Y.**, et al. 2025, AJ, 169, 44  ([ADS](https://ui.adsabs.harvard.edu/abs/2025AJ....169...44K/abstract))  
+ *"Accuracy of Stellar Mass-to-light Ratios of Nearby Galaxies in the Near Infrared"*
+
  * Kim, D., Im, M., Lim, G., and **Kim, Y.** 2024, JKAS, 57, 95  ([ADS](https://ui.adsabs.harvard.edu/abs/2024JKAS...57...95K/abstract))  
  *"Eddington Ratios of Dust-Obscured Quasars at z ~ 2"*
  
