@@ -34,14 +34,16 @@ Using the IMS quasars, we derived the quasar luminosity function at z\~5 and z\~
 
  TBU
  
- * Related publications: Kim, Y. et al. 2018, Kim, Y. & Im, M. 2019
+ * Related publications: Kim, Y. et al. 2018, Kim, Y. & Im, M. 2019, Kim, Y. et al. 2024a, Kim. D. et al. 2024
 
 ## Demography of Quasars along the Cosmic Time
 
  TBU
  
- * Related publications: Kim, Y. & Im, M. 2021.
+ * Related publications: Kim, Y. & Im, M. 2021, Kim, Y. et al. 2024a, 2024b
 
 ## Probing AGN Population and Cosmology with SPHEREx
 
   TBU
+
+  * Related publications: Kim, Y. et al. 2024b
