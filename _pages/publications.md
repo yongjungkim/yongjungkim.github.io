@@ -21,7 +21,7 @@ Quick Links to
 
 ### First and Second Author
 
- * **Kim, Y.**, Kim, M., et al. 2024, ApJS, 972, 171  ([ADS](https://ui.adsabs.harvard.edu/abs/2024ApJS..275...46K/abstract))  
+ * **Kim, Y.**, Kim, M., et al. 2024, ApJS, 275, 46  ([ADS](https://ui.adsabs.harvard.edu/abs/2024ApJS..275...46K/abstract))  
  *"Exploring Unobscured QSOs in the Southern Hemisphere with KS4"*
 
  * Kim, D., **Kim, Y.**, et al. 2024, A&A, 690, 283  ([ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.283K/abstract))  
