@@ -41,12 +41,9 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 ### **B.S. in Astronomy** at **Seoul National University**, Seoul, Korea (2009 March - 2013 February)
   * Minor: Physics
 
-## Research Grants & Scholarships
+## Research Grants
 * **The Sejong Science Fellowship**, *USD 420,000* (2021-2026)
-* **The 2020 China Postdoctoral Science Special Grant**, *USD 26,000* (2020)
-* **The 2020 China Postdoctoral Science General Grant**, *USD 12,000* (2020)
+* **The 2020 China Postdoctoral Science Special Grant**, *USD 26,000* (2020-2021)
+* **The 2020 China Postdoctoral Science General Grant**, *USD 12,000* (2020-2021)
 * **Top 100 Fellowship**, *USD 7,000* (2019)
-* **Scholarship for Creative Academic Performance (BK21)**, *USD 58,000* (2013-2019)
-* **Lotte Scholarship**, *USD 5,000* (2012)
-* **Presidentail Science Scholarship**, *USD 10,000* (2009-2010)
 
