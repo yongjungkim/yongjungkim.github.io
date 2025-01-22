@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am **Yongjung Kim**, an **Assistant Professor** at [**Sejong University**](https://www.sejong.ac.kr) in Seoul, Republic of Korea. 
 
-Before joining Sejong University, I worked at Korean Astronomy & Space Science Institute (Daejeon, Korea), Kyungpook National University (Daegu, Korea) and Kavli Institute for Astronomy and Astrophysics (Beijing, China).
+Before joining Sejong University, I worked at Korean Astronomy & Space Science Institute ([KASI](https://www.kasi.re.kr)), Kyungpook National University ([KNU](https://www.knu.ac.kr)) and Kavli Institute for Astronomy and Astrophysics ([KIAA](http://kiaa.pku.edu.cn)).
 I earned my Ph.D. in Astronomy at Seoul National University (Seoul, Korea), under the guidance of Professor Myungshin Im.
 You can find more details about my academic journey on [this page](https://yongjungkim.github.io/cv/).
 
