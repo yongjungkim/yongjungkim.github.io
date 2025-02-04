@@ -17,10 +17,6 @@ Quick Links to
  [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/-qlmCI7ySnmm8VvrhaHLLw),
  [Google Scholar](https://scholar.google.co.kr/citations?user=mREqevIAAAAJ)
 
-<dev>
-<iframe src="https://ui.adsabs.harvard.edu/user/libraries/-qlmCI7ySnmm8VvrhaHLLw" width="100%" height="600px" frameborder="0"></iframe>
-</dev>
-
 ## Refereed Publications
 
 ### First and Second Author
