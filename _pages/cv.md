@@ -12,7 +12,7 @@ redirect_from:
 Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 
 ## Positions
-### **Assistant Professor** (2025 February - present)
+### **Assistant Professor** (2025 March - present)
   * At **Sejong University**, Seoul, Korea
 
 ### **Senior Researcher** (2023 July - 2025 February)
