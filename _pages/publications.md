@@ -21,6 +21,9 @@ Quick Links to
 
 #### 2025
 
+ * Lim, G., Choi, C., Im, M., ..., **Kim, Y.**, et al. 2025, JKAS, 58, 31  ([ADS](https://ui.adsabs.harvard.edu/abs/2025JKAS...58...31L/abstract))  
+ *"High-Cadence Optical Observations of a Normal Type Ia SN 2018kp from Its Early Phase"*
+
  * Kim, T., Kim, M., Ho, L. C., ..., **Kim, Y.**, et al. 2025, AJ, 169, 44  ([ADS](https://ui.adsabs.harvard.edu/abs/2025AJ....169...44K/abstract))  
  *"Accuracy of Stellar Mass-to-light Ratios of Nearby Galaxies in the Near Infrared"*
 
