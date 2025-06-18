@@ -21,6 +21,13 @@ Quick Links to
 
 
 #### 2025
+
+ * Choi, Y., Fu, Y., Im, M., ..., **Kim, Y.**, et al. 2025, ApJS submitted  (ADS)  
+ *"AllBRICQS: The Discovery of Luminous Quasars in the Northern Hemisphere"*
+
+ * Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A submitted  (ADS)  
+ *"Direct Observational Evidence that Higher-luminosity Type 1 Active Galactic Nuclei Are More Commonly Triggered by Galaxy Mergers"*
+ 
  * Zhang, E., Faisst, A. L., Crill, B., ..., **Kim, Y.**, et al. 2025, ApJ submitted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250321876Z/abstract))  
  *"The Potential of the SPHEREx Mission for Characterizing PAH 3.3 μm Emission in Nearby Galaxies"*
 
