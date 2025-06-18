@@ -19,11 +19,13 @@ Quick Links to
 
 ## Refereed Publications
 
-30 in total (11 as first/second author, 19 as co-author)
 
 #### 2025
- * Zhang, E., Faisst, A. L., Crill, B., ..., **Kim, Y.**, et al. 2025, submitted to ApJ ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250321876Z/abstract))  
+ * Zhang, E., Faisst, A. L., Crill, B., ..., **Kim, Y.**, et al. 2025, ApJ submitted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250321876Z/abstract))  
  *"The Potential of the SPHEREx Mission for Characterizing PAH 3.3 μm Emission in Nearby Galaxies"*
+
+ * Vargas-Salazar, I., Oey, M.~S., Eldridge, J.~J., ..., **Kim, Y.**, et al. 2025, ApJ accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250613004V/abstract))  
+ *"New Field OB and OBe Binaries of the SMC Wing: Observational Properties and Population Modeling"*
 
  * Lim, G., Choi, C., Im, M., ..., **Kim, Y.**, et al. 2025, JKAS, 58, 31  ([ADS](https://ui.adsabs.harvard.edu/abs/2025JKAS...58...31L/abstract))  
  *"High-Cadence Optical Observations of a Normal Type Ia SN 2018kp from Its Early Phase"*
