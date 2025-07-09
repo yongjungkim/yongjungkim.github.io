@@ -11,7 +11,12 @@ redirect_from:
 
 Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 
-## Positions
+## Education
+
+  * Ph.D. in Astronomy at Seoul National University (2019)  
+  * B.S. in Astronomy at Seoul National University (2013)
+
+## Professional Experience
 
   * Assistant Professor at Sejong University (2025 - present)
   * Senior Researcher at Korea Astronomy & Space Science Institute (2023-2025)
@@ -19,12 +24,16 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
   * KIAA Fellow at Kavli Institute for Astronomy and Astrophysics (2019-2021)
   * Postdoctoral Researcher at Seoul National University (2019)
 
-## Education
+## Research Interests
 
-  * Ph.D. in Astronomy at Seoul National University, Seoul, Korea (2019)  
-  * B.S. in Astronomy at Seoul National University, Seoul, Korea (2013)
+  * Observational Astronomy
+  * Quasars (Active Galactic Nuclei)
+  * Supermassive Black Holes
+  * Galaxy Evolution
 
-## Research Grants
+
+## Awarded Research Grants
+
 * The Sejong Science Fellowship, *USD 420,000* (2021-2026)
 * The 2020 China Postdoctoral Science Special Grant, *USD 26,000* (2020-2021)
 * The 2020 China Postdoctoral Science General Grant, *USD 12,000* (2020-2021)
