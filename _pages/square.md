@@ -41,7 +41,7 @@ and structural transformation in galaxies, particularly during key cosmic epochs
 
 **Prof. Yongjung Kim** <br>
 *Assistant Professor* <br>
-Research Interests:
+More information can be found on the [CV](https://yongjungkim.github.io/cv/) page
 
 ### Graduate Students
 
