@@ -4,6 +4,8 @@ main:
   - dropdown:
     -title: "Research"
      url: /research/
+    -title: "Members"
+     url: /members/
   
   - title: "CV"
     url: /cv/
