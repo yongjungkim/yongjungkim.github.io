@@ -1,13 +1,7 @@
 # main links links
 main:
   - title: "SQuARE Team"
-    url: /research/
-    
-  - title: "Members"
-    url: /members/
-  
-  - title: "CV"
-    url: /cv/
+    url: /square/
     
   - title: "Publications"
     url: /publications/
