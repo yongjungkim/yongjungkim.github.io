@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "SQuARE"
+title: "SQuARE Group"
 permalink: /square/
 author_profile: true
 redirect_from: 
