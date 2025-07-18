@@ -1,10 +1,9 @@
 # main links links
 main:
   - title: "SQuARE Team"
-    children:
-    -title: "Research"
-     url: /research/
-    -title: "Members"
+    url: /research/
+    
+  - title: "Members"
      url: /members/
   
   - title: "CV"
