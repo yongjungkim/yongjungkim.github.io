@@ -2,6 +2,9 @@
 main:
   - title: "SQuARE Group"
     url: /square/
+
+  - title: "Research"
+    url: /research/
     
   - title: "Publications"
     url: /publications/
