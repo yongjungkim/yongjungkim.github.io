@@ -7,7 +7,29 @@ redirect_from:
   - /research
 ---
 
-## High-redshift Quasar Survey with IMS
+## Exploring Quasars and Cosmic Evolution
+
+### Discovering Quasars Across Cosmic Time
+
+We identify and characterize quasars across a wide range of redshifts, 
+from the nearby universe to the cosmic dawn, using multi-wavelength data from large-area surveys. 
+This work provides a comprehensive understanding of quasar populations and reveals previously overlooked or rare quasar types.
+
+
+### Tracking Quasar Demographics Over Time
+
+We investigate how the number density, luminosity, and spectral properties of quasars change over billions of years. 
+By constructing quasar luminosity functions and tracking their redshift evolution, 
+we aim to reveal the physical processes driving the rise and fall of quasar activity in the universe.
+
+### Co-evolution of Black Holes and Host Galaxies
+
+We study the co-evolution of supermassive black holes and their host galaxies 
+by combining survey data in the infrared, optical, and submillimeter wavelengths. 
+This allows us to trace the mass growth of black holes alongside star formation 
+and structural transformation in galaxies, particularly during key cosmic epochs.
+
+<!--
 
 ### Discovery of Faint Quasars in the Early Universe
 
@@ -17,10 +39,8 @@ As a core member of the **Infrared Medium-deep Survey** (IMS; PI: Prof. Myungshi
 
 <p align="center"><img src="https://yongjungkim.github.io/images/imsquasars.png" width="700px"></p><br/>
 
-<!--
 During my Ph.D., I participated in the Infrared Medium-deep Survey(IMS; PI: Prof. Myungshin Im), a near-infrared imaging survey, for which imaging data were obtained with the Wide Field Camera(WFCam) on the United Kingdom Infrared Telescope (UKIRT). Combining this with the optical data from the Canada-France-Hawaii Telescope Legacy Survey (CFHTLS), we have performed a high-redshift quasar survey to find faint quasars. It had been unclear whether such faint quasars could make a considerable contribution to the cosmic reionization and ionizing background in the early universe. Dozens of quasars at z>5 have been discovered so far, and we derived the quasar luminosity function at z\~5 and z\~6. We suggest that quasars are not the main contributors to provide UV photons required to fully ionize hydrogen in the early universe.
  * Related publications: Kim et al. 2015,2019,2020; Jeon et al. 2016,2017; Shin et al. 2020.
--->
 
 ### Quasar Luminosity Functions and Minor Contribution to Ionizing Background
 
@@ -47,3 +67,5 @@ Using the IMS quasars, we derived the quasar luminosity function at z\~5 and z\~
   TBU
 
   * Related publications: Kim, Y. et al. 2024b
+
+--!>
