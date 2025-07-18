@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "SQuARE Team"
-  - dropdown:
+    children:
     -title: "Research"
      url: /research/
     -title: "Members"
