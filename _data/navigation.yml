@@ -1,7 +1,9 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "SQuARE Team"
+  - dropdown:
+    -title: "Research"
+     url: /research/
   
   - title: "CV"
     url: /cv/
