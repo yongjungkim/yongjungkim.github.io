@@ -9,7 +9,7 @@ redirect_from:
 
 ## Survey-based Quasar Analysis and Research for Evolution (SQuARE)
 
-A research group dedicated to understanding quasars and galaxies through large-scale multi-wavelength surveys.
+A research group dedicated to understanding quasars and galaxies through multi-wavelength surveys.
 
 
 ## Principal Investigator
