@@ -31,7 +31,7 @@ Quick Links to
  * Zhang, E., Faisst, A. L., Crill, B., ..., **Kim, Y.**, et al. 2025, ApJ submitted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250321876Z/abstract))  
  *"The Potential of the SPHEREx Mission for Characterizing PAH 3.3 μm Emission in Nearby Galaxies"*
 
- * Vargas-Salazar, I., Oey, M.~S., Eldridge, J.~J., ..., **Kim, Y.**, et al. 2025, ApJ, 988, 146 ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250613004V/abstract))  
+ * Vargas-Salazar, I., Oey, M.~S., Eldridge, J.~J., ..., **Kim, Y.**, et al. 2025, ApJ, 988, 146 ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...988..146V/abstract))  
  *"New Field OB and OBe Binaries of the SMC Wing: Observational Properties and Population Modeling"*
 
  * Lim, G., Choi, C., Im, M., ..., **Kim, Y.**, et al. 2025, JKAS, 58, 31  ([ADS](https://ui.adsabs.harvard.edu/abs/2025JKAS...58...31L/abstract))  
