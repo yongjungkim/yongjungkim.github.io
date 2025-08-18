@@ -33,6 +33,6 @@ Research Interests: AGNs observed in NIR
 [Photo]
 
 **Sodam Choi** <br>
-*Master Student* <br>
+*Master's Student* <br>
 Research Interests: Star formation in AGN hosts
 
