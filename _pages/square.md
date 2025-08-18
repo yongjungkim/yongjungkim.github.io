@@ -24,6 +24,14 @@ More information can be found on the [CV](https://yongjungkim.github.io/cv/) pag
 
 [Photo]
 
-**Mr. John Doe** <br>
+**Jeyeon Lee** <br>
+*Integrated Master's-PhD Program Student* <br>
+Research Interests: AGNs observed in NIR
+
+
+[Photo]
+
+**Sodam Choi** <br>
 *Master Student* <br>
-Research Interests:
+Research Interests: Star formation in AGN hosts
+
