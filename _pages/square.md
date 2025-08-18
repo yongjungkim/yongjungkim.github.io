@@ -9,7 +9,7 @@ redirect_from:
 
 ## Survey-based Quasar Analysis and Research for Evolution (SQuARE)
 
-<p align="center"><img src="https://yongjungkim.github.io/images/SQuARE.png" width="700px"></p><br/>
+<p align="left"><img src="https://yongjungkim.github.io/images/SQuARE.png" width="500px"></p><br/>
 
 A research group dedicated to understanding quasars and galaxies through multi-wavelength surveys.
 
