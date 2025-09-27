@@ -22,6 +22,9 @@ Quick Links to
 
 #### 2025
 
+ * Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts
+   <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2025, ApJS submitted (ADS)
+   
  * The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS)
    <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2025, A&A submitted (ADS)
 
