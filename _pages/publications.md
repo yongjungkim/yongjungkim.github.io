@@ -22,14 +22,17 @@ Quick Links to
 
 #### 2025
 
+ * Simulating Spectral Confusion in SPHEREx Photometry and Redshifts
+   <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2025, ApJ, submitted
+   
  * Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts
-   <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2025, ApJS submitted (ADS)
+   <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2025, ApJS, submitted
    
  * The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS)
-   <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2025, A&A submitted (ADS)
+   <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2025, A&A, submitted
 
  * Direct Observational Evidence that Higher-luminosity Type 1 Active Galactic Nuclei Are More Commonly Triggered by Galaxy Mergers
-   <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A submitted  (ADS)  
+   <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A, submitted 
  
  * The Potential of the SPHEREx Mission for Characterizing PAH 3.3 μm Emission in Nearby Galaxies
    <br/>-  Zhang, E., Faisst, A. L., Crill, B., ..., **Kim, Y.**, et al. 2025, ApJ accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250321876Z/abstract))  
