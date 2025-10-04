@@ -22,7 +22,7 @@ Quick Links to
 
 #### 2025
 
- * Simulating Spectral Confusion in SPHEREx Photometry and Redshifts
+ * Simulating Spectral Confusion in SPHEREx Photometry and Redshifts ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001410H/abstract)) 
    <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2025, ApJ, submitted
    
  * Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts
