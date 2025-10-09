@@ -22,6 +22,9 @@ Quick Links to
 
 #### 2025
 
+ * Constructing a Hydrogen Line Library for Lyα emitters at low redshifts (z ≲ 0.4): Estimating dust extinction and assessing Paschen line detectability with SPHEREx
+   <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2025, JKAS, submitted
+
  * Simulating Spectral Confusion in SPHEREx Photometry and Redshifts ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001410H/abstract)) 
    <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2025, ApJ, submitted
    
