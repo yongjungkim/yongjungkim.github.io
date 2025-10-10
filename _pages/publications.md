@@ -38,7 +38,7 @@ Quick Links to
    <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A, submitted 
  
  * AllBRICQS: The Discovery of Luminous Quasars in the Northern Hemisphere
-   <br/>- Choi, Y., Fu, Y., Im, M., ..., **Kim, Y.**, et al. 2025, ApJS accepted  ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250806028C/abstract))
+   <br/>- Choi, Y., Fu, Y., Im, M., ..., **Kim, Y.**, et al. 2025, ApJS, accepted  ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250806028C/abstract))
     
  * The Potential of the SPHEREx Mission for Characterizing PAH 3.3 μm Emission in Nearby Galaxies
    <br/>-  Zhang, E., Faisst, A. L., Crill, B., ..., **Kim, Y.**, et al. 2025, ApJ, 992, 3 ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250321876Z/abstract))  
