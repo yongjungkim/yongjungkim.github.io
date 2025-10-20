@@ -38,10 +38,10 @@ Quick Links to
    <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A, submitted 
  
  * AllBRICQS: The Discovery of Luminous Quasars in the Northern Hemisphere
-   <br/>- Choi, Y., Fu, Y., Im, M., ..., **Kim, Y.**, et al. 2025, ApJS, 280, 73  ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250806028C/abstract))
+   <br/>- Choi, Y., Fu, Y., Im, M., ..., **Kim, Y.**, et al. 2025, ApJS, 280, 73  ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...73C/abstract))
     
  * The Potential of the SPHEREx Mission for Characterizing PAH 3.3 μm Emission in Nearby Galaxies
-   <br/>-  Zhang, E., Faisst, A. L., Crill, B., ..., **Kim, Y.**, et al. 2025, ApJ, 992, 3 ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250321876Z/abstract))  
+   <br/>-  Zhang, E., Faisst, A. L., Crill, B., ..., **Kim, Y.**, et al. 2025, ApJ, 992, 3 ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...992....3Z/abstract))  
  
  * New Field OB and OBe Binaries of the SMC Wing: Observational Properties and Population Modeling
    <br/>- Vargas-Salazar, I., Oey, M.~S., Eldridge, J.~J., ..., **Kim, Y.**, et al. 2025, ApJ, 988, 146 ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...988..146V/abstract))  
