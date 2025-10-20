@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Survey-based Quasar Analysis and Research for Evolution (SQuARE)
-A research group dedicated to understanding the evolution of quasars and galaxies across cosmic time through multi-wavelength surveys.
+A research group at Sejong University, dedicated to understanding the evolution of quasars and galaxies across cosmic time through multi-wavelength surveys. For more details on our ongoing projects and research topics, please visit the [Research](https://yongjungkim.github.io/research/) page
 
 <p align="left"><img src="https://yongjungkim.github.io/images/SQuARE.png" width="500px"></p>
 
