@@ -21,7 +21,7 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
   * *Assistant Professor* at Sejong University (2025 - present)
   * *Senior Researcher* at Korea Astronomy & Space Science Institute (2023-2025)
   * *Sejong Science Fellow* at Kyungpook National University (2021-2023)
-  * *KIAA Fellow* at Kavli Institute for Astronomy and Astrophysics (2019-2021)
+  * *KIAA Postdoctoral Fellow* at Kavli Institute for Astronomy and Astrophysics (2019-2021)
   * *Postdoctoral Researcher* at Seoul National University (2019)
 
 ## Research Interests
