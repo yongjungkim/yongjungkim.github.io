@@ -35,7 +35,7 @@ Quick Links to
    <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2025, A&A, submitted
 
  * Direct Observational Evidence that Higher-luminosity Type 1 Active Galactic Nuclei Are More Commonly Triggered by Galaxy Mergers
-   <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A, submitted 
+   <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A, in press 
  
  * AllBRICQS: The Discovery of Luminous Quasars in the Northern Hemisphere
    <br/>- Choi, Y., Fu, Y., Im, M., ..., **Kim, Y.**, et al. 2025, ApJS, 280, 73  ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...73C/abstract))
