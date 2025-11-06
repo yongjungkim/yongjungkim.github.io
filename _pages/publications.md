@@ -22,6 +22,9 @@ Quick Links to
 
 #### 2025
 
+ * The SPHEREx Satellite Mission ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251102985B/abstract)) 
+   <br/>- Bock, J. J., Aboobaker, A. M., Adamo, J., ..., **Kim, Y.**, et al. 2025, ApJ, submitted
+   
  * Constructing a Hydrogen Line Library for Lyα emitters at low redshifts (z ≲ 0.4): Estimating dust extinction and assessing Paschen line detectability with SPHEREx
    <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2025, JKAS, submitted
 
