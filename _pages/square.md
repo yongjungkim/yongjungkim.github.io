@@ -25,13 +25,13 @@ More information can be found on the [CV](https://yongjungkim.github.io/cv/) pag
 [Photo]
 
 **Jeyeon Lee** <br>
-*Integrated Master's-PhD Program Student* <br>
+*Integrated Master's-PhD Program Student* (2025.9-) <br>
 Research Interests: AGNs observed in NIR (SPHEREx)
 
 
 [Photo]
 
 **Sodam Choi** <br>
-*Master's Student* <br>
+*Master's Student* (2025.9-) <br>
 Research Interests: AGN activity and host galaxy
 
