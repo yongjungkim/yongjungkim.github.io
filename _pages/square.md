@@ -18,7 +18,6 @@ A research group at Sejong University, dedicated to understanding the evolution 
 [Photo]
 
 **Prof. Yongjung Kim** <br>
-*Assistant Professor* <br>
 More information can be found on the [CV](https://yongjungkim.github.io/cv/) page
 
 ## Current Members
