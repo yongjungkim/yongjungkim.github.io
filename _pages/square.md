@@ -21,7 +21,7 @@ A research group at Sejong University, dedicated to understanding the evolution 
 *Assistant Professor* <br>
 More information can be found on the [CV](https://yongjungkim.github.io/cv/) page
 
-## Graduate Students
+## Current Members
 
 [Photo]
 
