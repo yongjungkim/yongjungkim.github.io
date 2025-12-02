@@ -17,4 +17,4 @@ You can find more details about my academic journey on [CV](https://yongjungkim.
 I am leading the **SQuARE** Group at Sejong University, dedicated to exploring the nature and evolution of quasars and galaxies across cosmic time.
 Our work combines large multi-wavelength survey data and statistical methods to provide essential insights into quasar evolution, black hole growth, and the connection between quasars and their host galaxies. Please visit the [SQuARE Group](https://yongjungkim.github.io/square) and [Research](https://yongjungkim.github.io/research) pages for more details.
 
-Contact: yongjungkim@sejong.ac.kr
+Contact: yongjungkim (at) sejong.ac.kr
