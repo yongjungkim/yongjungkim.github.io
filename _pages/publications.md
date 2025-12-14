@@ -22,7 +22,9 @@ Quick Links to
 
 #### 2025
 
-   
+ * KMTNet Synoptic Survey of Southern Sky III: The First Data Release
+   <br/>- Chang, S.-W., Im, M., Jeong, M., ..., **Kim, Y.**, et al. 2025, JKAS, submitted
+     
  * Constructing a Hydrogen Line Library for Lyα emitters at low redshifts (z ≲ 0.4): Estimating dust extinction and assessing Paschen line detectability with SPHEREx
    <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2025, JKAS, submitted
 
