@@ -22,8 +22,6 @@ Quick Links to
 
 #### 2025
 
- * The SPHEREx Satellite Mission 
-   <br/>- Bock, J. J., Aboobaker, A. M., Adamo, J., ..., **Kim, Y.**, et al. 2025, ApJ, submitted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251102985B/abstract)) 
    
  * Constructing a Hydrogen Line Library for Lyα emitters at low redshifts (z ≲ 0.4): Estimating dust extinction and assessing Paschen line detectability with SPHEREx
    <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2025, JKAS, submitted
@@ -36,9 +34,12 @@ Quick Links to
    
  * The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS)
    <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2025, A&A, submitted
-
+ 
+ * The SPHEREx Satellite Mission 
+   <br/>- Bock, J. J., Aboobaker, A. M., Adamo, J., ..., **Kim, Y.**, et al. 2025, ApJ, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251102985B/abstract)) 
+ 
  * Direct Observational Evidence that Higher-luminosity Type 1 Active Galactic Nuclei Are More Commonly Triggered by Galaxy Mergers
-   <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A, in press ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251202805Y/abstract))
+   <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A, 704, 211 ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251202805Y/abstract))
  
  * AllBRICQS: The Discovery of Luminous Quasars in the Northern Hemisphere
    <br/>- Choi, Y., Fu, Y., Im, M., ..., **Kim, Y.**, et al. 2025, ApJS, 280, 73  ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...73C/abstract))
