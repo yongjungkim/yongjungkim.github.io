@@ -15,21 +15,15 @@ A research group at Sejong University, dedicated to understanding the evolution 
 
 ## Principal Investigator
 
-[Photo]
-
 **Prof. Yongjung Kim** <br>
 More information can be found on the [CV](https://yongjungkim.github.io/cv/) page
 
 ## Current Members
 
-[Photo]
-
 **Jeyeon Lee** <br>
 *Integrated Master's-PhD Program Student* (2025.9-) <br>
 Research Interests: AGNs observed in NIR (SPHEREx)
 
-
-[Photo]
 
 **Sodam Choi** <br>
 *Master's Student* (2025.9-) <br>
