@@ -20,7 +20,7 @@ Quick Links to
 ## Refereed Publications
 
 
-#### 2025
+#### 2026
 
  * KMTNet Synoptic Survey of Southern Sky III: The First Data Release
    <br/>- Chang, S.-W., Im, M., Jeong, M., ..., **Kim, Y.**, et al. 2025, JKAS, submitted
@@ -35,11 +35,13 @@ Quick Links to
    <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2025, ApJS, submitted
    
  * The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS)
-   <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2025, A&A, accepted
+   <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2025, A&A, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251224537B/abstract))
  
  * The SPHEREx Satellite Mission 
-   <br/>- Bock, J. J., Aboobaker, A. M., Adamo, J., ..., **Kim, Y.**, et al. 2025, ApJ, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251102985B/abstract)) 
- 
+   <br/>- Bock, J. J., Aboobaker, A. M., Adamo, J., ..., **Kim, Y.**, et al. 2025, ApJ, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251102985B/abstract))
+
+#### 2025
+
  * Direct Observational Evidence that Higher-luminosity Type 1 Active Galactic Nuclei Are More Commonly Triggered by Galaxy Mergers
    <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A, 704, 211 ([ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...704A.211Y/abstract))
  
