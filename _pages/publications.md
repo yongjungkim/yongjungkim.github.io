@@ -22,6 +22,9 @@ Quick Links to
 
 #### 2026
 
+ * Only obscured yet luminous AGNs are closely associated with galaxy mergers: direct observational evidence from type 2 AGNs
+   <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2025, A&A, submitted
+ 
  * KMTNet Synoptic Survey of Southern Sky III: The First Data Release
    <br/>- Chang, S.-W., Im, M., Jeong, M., ..., **Kim, Y.**, et al. 2025, JKAS, submitted
      
