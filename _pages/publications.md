@@ -31,12 +31,12 @@ Quick Links to
  * Constructing a Hydrogen Line Library for Lyα emitters at low redshifts (z ≲ 0.4): Estimating dust extinction and assessing Paschen line detectability with SPHEREx
    <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2025, JKAS, submitted
 
- * Simulating Spectral Confusion in SPHEREx Photometry and Redshifts 
-   <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2025, ApJ, submitted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001410H/abstract)) 
-   
  * Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts
    <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2025, ApJS, submitted
-   
+
+ * Simulating Spectral Confusion in SPHEREx Photometry and Redshifts 
+   <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2025, ApJ, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001410H/abstract))
+
  * The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS)
    <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2025, A&A, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251224537B/abstract))
  
