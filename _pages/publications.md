@@ -32,7 +32,7 @@ Quick Links to
    <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2025, JKAS, submitted
 
  * Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts
-   <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2025, ApJS, submitted
+   <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2025, ApJS, accepted
 
  * Simulating Spectral Confusion in SPHEREx Photometry and Redshifts 
    <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2025, ApJ, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001410H/abstract))
