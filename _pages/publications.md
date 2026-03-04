@@ -38,10 +38,10 @@ Quick Links to
    <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2025, ApJ, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001410H/abstract))
 
  * The SPHEREx Satellite Mission 
-   <br/>- Bock, J. J., Aboobaker, A. M., Adamo, J., ..., **Kim, Y.**, et al. 2025, ApJ, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251102985B/abstract))
+   <br/>- Bock, J. J., Aboobaker, A. M., Adamo, J., ..., **Kim, Y.**, et al. 2025, ApJ, 999, 139 ([ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...999..139B/abstract))
 
  * The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS)
-   <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2026, A&A, 706, 347 ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251224537B/abstract))
+   <br/>- Bae, J., Lee, B., Im, M., ..., **Kim, Y.**, et al. 2026, A&A, 706, 347 ([ADS](https://ui.adsabs.harvard.edu/abs/2026A&A...706A.347B/abstract))
 
 #### 2025
 
