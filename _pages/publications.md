@@ -32,10 +32,10 @@ Quick Links to
    <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2026, JKAS, submitted
 
  * Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts
-   <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2026, ApJS, accepted
+   <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2026, ApJS, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260309976K/abstract))
 
  * Simulating Spectral Confusion in SPHEREx Photometry and Redshifts 
-   <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2026, ApJ, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001410H/abstract))
+   <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2026, ApJ, 1000, 56 ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001410H/abstract))
 
  * The SPHEREx Satellite Mission 
    <br/>- Bock, J. J., Aboobaker, A. M., Adamo, J., ..., **Kim, Y.**, et al. 2026, ApJ, 999, 139 ([ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...999..139B/abstract))
