@@ -24,18 +24,18 @@ Quick Links to
 
  * Only obscured yet luminous AGNs are closely associated with galaxy mergers: direct observational evidence from type 2 AGNs
    <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2026, A&A, submitted
- 
- * KMTNet Synoptic Survey of Southern Sky III: The First Data Release
-   <br/>- Chang, S.-W., Im, M., Jeong, M., ..., **Kim, Y.**, et al. 2026, JKAS, submitted
      
  * Constructing a Hydrogen Line Library for Lyα emitters at low redshifts (z ≲ 0.4): Estimating dust extinction and assessing Paschen line detectability with SPHEREx
    <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2026, JKAS, submitted
-
+ 
+ * KMTNet Synoptic Survey of Southern Sky III: The First Data Release
+   <br/>- Chang, S.-W., Im, M., Jeong, M., ..., **Kim, Y.**, et al. 2026, JKAS, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260328089C/abstract))
+ 
  * Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts
    <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2026, ApJS, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260309976K/abstract))
 
  * Simulating Spectral Confusion in SPHEREx Photometry and Redshifts 
-   <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2026, ApJ, 1000, 56 ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001410H/abstract))
+   <br/>- Huai, Z., Bock, J. J., Cheng, Y.-T., ..., **Kim, Y.**, et al. 2026, ApJ, 1000, 56 ([ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000...56H/abstract))
 
  * The SPHEREx Satellite Mission 
    <br/>- Bock, J. J., Aboobaker, A. M., Adamo, J., ..., **Kim, Y.**, et al. 2026, ApJ, 999, 139 ([ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...999..139B/abstract))
