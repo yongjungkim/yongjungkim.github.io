@@ -34,9 +34,9 @@ Quick link to [Full CV](http://yongjungkim.github.io/files/CV_YongjungKim.pdf)
 
 ## Awarded Research Grants
 
-* The Outstanding Young Scientist Grants (우수신진연구), National Research Foundation in Korea, *722,405,000 KRW* (2026-2031)
-* The Sejong Science Fellowship (세종과학펠로우십), National Research Foundation of Korea, *531,821,000 KRW* (2021-2026)
-* The 2020 China Postdoctoral Science Special Grant, China Postdoctoral Science Foundation, *180,000 RMB* (2020-2021)
-* The 2020 China Postdoctoral Science General Grant, China Postdoctoral Science Foundation, *80,000 RMB* (2020-2021)
-* Top 100 Fellowship, Peking University, *50,000 RMB* (2019-2021)
+* The Outstanding Young Scientist Grants (우수신진연구), National Research Foundation in Korea (2026-2031)
+* The Sejong Science Fellowship (세종과학펠로우십), National Research Foundation of Korea (2021-2026)
+* The 2020 China Postdoctoral Science Special Grant, China Postdoctoral Science Foundation (2020-2021)
+* The 2020 China Postdoctoral Science General Grant, China Postdoctoral Science Foundation (2020-2021)
+* Top 100 Fellowship, Peking University (2019-2021)
 
