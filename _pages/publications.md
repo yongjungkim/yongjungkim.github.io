@@ -29,7 +29,7 @@ Quick Links to
    <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2026, JKAS, submitted
  
  * Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts
-   <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2026, ApJS, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260309976K/abstract))
+   <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2026, ApJS, 284, 1 ([ADS](https://ui.adsabs.harvard.edu/abs/2026ApJS..284....1K/abstract))
    
  * KMTNet Synoptic Survey of Southern Sky III: The First Data Release
    <br/>- Chang, S.-W., Im, M., Jeong, M., ..., **Kim, Y.**, et al. 2026, JKAS, 59, 179 ([ADS](https://ui.adsabs.harvard.edu/abs/2026JKAS...59..179C/abstract))
