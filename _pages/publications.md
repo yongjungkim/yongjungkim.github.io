@@ -22,10 +22,7 @@ Quick Links to
 
 #### 2026
 
-     
- * Constructing a Hydrogen Line Library for Lyα emitters at low redshifts (z ≲ 0.4): Estimating dust extinction and assessing Paschen line detectability with SPHEREx
-   <br/>- Song, J., Song, H., Shim, H., ..., **Kim, Y.**, et al. 2026, JKAS, submitted
- 
+
  * Only obscured yet luminous AGNs are closely associated with galaxy mergers: direct observational evidence from type 2 AGNs
    <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2026, A&A, accepted
    
