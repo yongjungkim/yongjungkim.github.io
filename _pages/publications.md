@@ -22,11 +22,14 @@ Quick Links to
 
 #### 2026
 
+ * A UV-to-Near-infrared QSO Composite Spectrum from the SPHEREx All-Sky Survey
+   <br/>- Kim, M., **Kim, Y.**, Jeong, W.-S., et al. 2026, ApJS, submitted ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260710282K/abstract))
+   
  * A Naked Dwarf: Molecular Gas in the Completely Stripped HI Tail of VCC 1249
    <br/>- Lee, B., Chung, A., Serra, P., ..., **Kim, Y.**, et al. 2026, ApJL, submitted
 
  * Only obscured yet luminous AGNs are closely associated with galaxy mergers: direct observational evidence from type 2 AGNs
-   <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2026, A&A, in press ([arXiv](https://ui.adsabs.harvard.edu/abs/2026arXiv260624684Y/abstract))
+   <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2026, A&A, in press ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260624684Y/abstract))
    
  * Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts
    <br/>- Kim, D., Im, M., Shim, H., ..., **Kim, Y.**, et al. 2026, ApJS, 284, 1 ([ADS](https://ui.adsabs.harvard.edu/abs/2026ApJS..284....1K/abstract))
