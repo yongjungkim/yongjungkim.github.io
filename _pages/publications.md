@@ -22,6 +22,9 @@ Quick Links to
 
 #### 2026
 
+ * Comparing the Near-infrared Spectral Energy Distributions from Different Stellar Population Synthesis Models with SPHEREx Observations
+   <br/>- Lee, J., Kim, M., Jeong, W.-S., ... **Kim, Y.**, et al. 2026, ApJ, submitted ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260718048L/abstract))
+
  * A UV-to-Near-infrared QSO Composite Spectrum from the SPHEREx All-Sky Survey
    <br/>- Kim, M., **Kim, Y.**, Jeong, W.-S., et al. 2026, ApJS, submitted ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260710282K/abstract))
    
