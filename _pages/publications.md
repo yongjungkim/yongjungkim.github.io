@@ -29,7 +29,7 @@ Quick Links to
    <br/>- Kim, M., **Kim, Y.**, Jeong, W.-S., et al. 2026, ApJS, submitted ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260710282K/abstract))
    
  * A Naked Dwarf: Molecular Gas in the Completely Stripped HI Tail of VCC 1249
-   <br/>- Lee, B., Chung, A., Serra, P., ..., **Kim, Y.**, et al. 2026, ApJL, accepted
+   <br/>- Lee, B., Chung, A., Serra, P., ..., **Kim, Y.**, et al. 2026, ApJL, accepted ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260720626L/abstract))
 
  * Only obscured yet luminous AGNs are closely associated with galaxy mergers: direct observational evidence from type 2 AGNs
    <br/>- Yoon, Y., **Kim, Y.**, Kim, D., et al. 2026, A&A, 711, 184 ([ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...711A.184Y/abstract))
